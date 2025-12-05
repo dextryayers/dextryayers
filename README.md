@@ -1,55 +1,84 @@
 <div align="center">
 
   <h1>Hey Hey there 👋</h1>
-  <h3>I'm <b>Hanif Abdurrohim</b> — Cyber Security & Web Developer</h3>
+  <h3>I'm <b>Hanif Abdurrohim</b> — Cyber Security Researcher & Web Developer</h3>
 
   <p>
-    Passionate about <b>Cyber Security</b>, Linux engineering, modern web technologies,  
-    automation, and building smart tools.
+    Passionate about <b>Cyber Security</b>, Linux engineering, modern web development,  
+    automation, and building efficient tools for both offensive & defensive use.
   </p>
 
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Cyber GIF" width="600"/>
+  <!-- MATRIX RAIN ANIMATION (16:9) -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3huZXRxZ3BibTJhMXEwYnZ5cDEwM3c3ZGdla3AwaGxjNTgyMW5pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.gif" width="700" alt="Matrix Animation"/>
+
 </div>
 
 ---
 
 ## ✨ About Me
-- 🔭 Open for security research, automation, and modern web collaborations  
-- 🧠 Currently exploring AI-assisted pentesting & red team automation  
-- ⚙️ I love building tools, documenting what I learn, and sharing knowledge  
-- 🐧 Linux enjoyer + scripting addict  
+- 🔭 Open for security research, automation, and modern web development work  
+- 🧠 Exploring AI-assisted pentesting, red team automation, and scripting  
+- ⚙️ Love building small tools that solve real problems  
+- 🐧 Daily-driven Linux user (Kali, Parrot, Pop!_OS, Arch)  
 - 💡 “Break things to understand how they work.”
 
 ---
 
-## 🧰 Tech Stacks
+## 🛡️ Cyber Security Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white">
+<img src="https://img.shields.io/badge/Metasploit-2274A5?style=for-the-badge&logo=metasploit&logoColor=white">
+<img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/John_The_Ripper-222222?style=for-the-badge&logo=security&logoColor=white">
+<img src="https://img.shields.io/badge/Hydra-444444?style=for-the-badge&logo=terminal&logoColor=white">
+<img src="https://img.shields.io/badge/Nikto-8A2BE2?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+
+![ngoding](https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif)
+</p>
+
+---
+
+## 🧰 Web Development Stacks
 <p align="left">
 
-  <!-- OS / Security -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="40" title="Kali Linux"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/parrotsecurity.svg" width="40" title="Parrot OS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" title="Arch Linux"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/popos.svg" width="40" title="Pop!_OS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+---
 
-  <!-- Frameworks / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+## 📦 Tech Stack
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Parrot_OS-4B275F?style=for-the-badge&logo=parrotsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+
 </p>
 
 ---
 
 ## 🌐 Socials
 <p align="left">
+
   <a href="https://instagram.com/hanziip.kds" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -61,18 +90,7 @@
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
 
----
-
-## ⚡ Featured Tools I Use
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal-Tmux-1BB91F?style=flat&logo=tmux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
 ---
