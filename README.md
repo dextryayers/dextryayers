@@ -95,10 +95,16 @@
 
 ---
 
-## 🚀 Contribution Graph
+## ⚪ Clean Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniipdev&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniipdev&show_icons=true&theme=transparent&hide_border=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aniipdev&theme=transparent&hide_border=true" height="160">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniipdev&theme=github&hide_border=true" />
+</p>
+
 
 
 
