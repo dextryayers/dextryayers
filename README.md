@@ -95,10 +95,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📡 Live GitHub Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniipdev/aniipdev/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniipdev&theme=matrix&hide_border=true&area=true" />
 </p>
+
 
 
 
