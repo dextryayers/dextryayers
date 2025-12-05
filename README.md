@@ -95,13 +95,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Contribution Graph
 <p align="center">
-  <a href="https://github.com/aniipdev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=aniipdev&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aniipdev&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniipdev&theme=react-dark&hide_border=true&area=true" />
 </p>
+
 
 
 ---
