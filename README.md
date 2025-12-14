@@ -97,7 +97,7 @@
 
 ## 📡 Live GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dextryayers&theme=matrix&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dextryayers&theme=matrix&hide_border=true&area=true&bg_color=0D1117&color=00FF00&line=9E4C98&point=FFFFFF" />
 </p>
 
 
