@@ -95,7 +95,8 @@
 
 ---
 
-[![Hanip'stats](https://github-readme-stats.vercel.app/api?username=dextryayers&show_icons=true&theme=dracula)]
+[![Anip's GitHub stats](https://github-readme-stats.vercel.app/api?username=dextryayers&show_icons=true&theme=dracula)]
+[![top bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=dextryayers&size_weight=0.5&count_weight=0.5)]
 
 ## 📡 Live GitHub Activity
 <p align="center">
