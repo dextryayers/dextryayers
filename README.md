@@ -98,6 +98,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dextryayers&show_icons=true&theme=dracula" alt="dextryayers" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextryayers&size_weight=0.5&count_weight=0.5" alt="dextryayers" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dextryayers&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="dextryayers" />
 </p>
 
 ## 📡 Live GitHub Activity
