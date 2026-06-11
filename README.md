@@ -26,7 +26,7 @@ I love the smell of **Linux terminals**, the thrill of **automation**, and the a
 ## 🛡️ **Cyber Security Arsenal**
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="30" alt="Nmap" />
+  <img src="https://cdn.simpleicons.org/wireshark" height="30" alt="Nmap" />
   <img src="https://cdn.simpleicons.org/burpsuite/FF6F00" height="30" alt="Burp Suite" />
   <img src="https://cdn.simpleicons.org/metasploit/2274A5" height="30" alt="Metasploit" />
   <img src="https://cdn.simpleicons.org/sqlmap/000000" height="30" alt="SQLMap" />
