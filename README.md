@@ -45,7 +45,7 @@ I love the smell of **Linux terminals**, the thrill of **automation**, and the a
 ## 🧰 **Tech Stack** — *languages, frameworks & tools*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+ <img src="" height="30" alt="JavaScript logo" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
