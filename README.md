@@ -30,10 +30,10 @@ I love the smell of **Linux terminals**, the thrill of **automation**, and the a
   <img src="https://cdn.simpleicons.org/burpsuite/FF6F00" height="30" alt="Burp Suite" />
   <img src="https://cdn.simpleicons.org/metasploit/2274A5" height="30" alt="Metasploit" />
   <img src="https://cdn.simpleicons.org/owasp" height="30" alt="OWASP" />
-  <img src="https://cdn.simpleicons.org/johntheripper/222222" height="30" alt="John The Ripper" />
-  <img src="https://cdn.simpleicons.org/hydra/444444" height="30" alt="Hydra" />
-  <img src="https://cdn.simpleicons.org/nikto/8A2BE2" height="30" alt="Nikto" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="30" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/torproject" height="30" alt="John The Ripper" />
+  <img src="https://cdn.simpleicons.org/hackthebox" height="30" alt="Hydra" />
+  <img src="https://cdn.simpleicons.org/tryhackme" height="30" alt="Nikto" />
+  <img src="https://cdn.simpleicons.org/hackerone" height="30" alt="Wireshark" />
 </p>
 
 <p align="center">
