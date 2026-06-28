@@ -1,0 +1,48 @@
+name: Generate Pacman Contribution Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install pacman-contribution-graph
+          npm install yargs yargs-parser
+
+      - name: Generate Pacman SVG
+        run: |
+          npx pacman-contribution-graph \
+            --username ${{ github.repository_owner }} \
+            --platform github \
+            --game pacman \
+            --gameTheme github-dark \
+            --output dist/pacman-contribution-graph.svg
+
+      - name: Generate Dark mode SVG
+        run: |
+          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
