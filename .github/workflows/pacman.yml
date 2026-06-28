@@ -1,45 +1,27 @@
-name: Generate Pacman Contribution Animation
+name: Generate Pac-Man Game
 
 on:
   schedule:
+    # Jalankan setiap hari pada tengah malam UTC
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Untuk menjalankan secara manual
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
     permissions:
       contents: write
-
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          node-version: '18'
+          github_user_name: ${{ github.repository_owner }}
+          # Opsional: tentukan game dan tema, defaultnya adalah 'pacman' dan 'github-dark'
+          # game: 'pacman'
+          # game_theme: 'github-dark'
 
-      - name: Install dependencies
-        run: |
-          npm install pacman-contribution-graph
-          npm install yargs yargs-parser
-
-      - name: Generate Pacman SVG
-        run: |
-          npx pacman-contribution-graph \
-            --username ${{ github.repository_owner }} \
-            --platform github \
-            --game pacman \
-            --gameTheme github-dark \
-            --output dist/pacman-contribution-graph.svg
-
-      - name: Generate Dark mode SVG
-        run: |
-          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
-
-      - name: Push to output branch
+      - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
