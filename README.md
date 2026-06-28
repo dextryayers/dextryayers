@@ -128,7 +128,11 @@ I love the smell of **Linux terminals**, the thrill of **automation**, and the a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dextryayers&theme=matrix&hide_border=true&area=true&bg_color=0D1117&color=00FF00&line=9E4C98&point=FFFFFF" width="90%" />
 </p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dextryayers/dextryayers/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dextryayers/dextryayers/output/pacman-contribution-graph.svg">
+  <img alt="github contribution pacman animation" src="https://raw.githubusercontent.com/dextryayers/dextryayers/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <h3>🧩 “Keep learning. Keep breaking. Keep building.”</h3>
