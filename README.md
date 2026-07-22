@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ **About Me** — *the human behind the screen*
+## ✨ **About Me** - *the human behind the screen*
 
 I’m **Hanif**, a passionate **Cyber Security Researcher** and **Web Developer** from Indonesia.  
 I love the smell of **Linux terminals**, the thrill of **automation**, and the art of building **secure & modern web apps**.
@@ -17,7 +17,7 @@ I love the smell of **Linux terminals**, the thrill of **automation**, and the a
 - 🔭 Currently open for **security research**, **automation projects**, and **web dev work**  
 - 🧠 Diving into **AI-assisted pentesting**, **red team tooling**, and **scripting**  
 - ⚙️ I build small tools that solve real problems (sometimes weird ones)  
-- 🐿️ Daily Linux user: Kali, Parrot, Pop!_OS, Arch — I distro-hop for fun  
+- 🐿️ Daily Linux user: Kali, Parrot, Pop!_OS, Arch - I distro-hop for fun  
 - 💬 Ask me about **bypassing 403**, **WAF evasion**, or **why I love Vue.js**  
 - 🎯 Motto: *“If it ain't broken, you haven't tested enough.”*
 
@@ -112,12 +112,12 @@ I love the smell of **Linux terminals**, the thrill of **automation**, and the a
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dextryayers&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dextryayers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dextryayers&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextryayers&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" width="50%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dextryayers&layout=compact&langs_count=8&theme=algolia" width="50%" />
 </p>
 
 
