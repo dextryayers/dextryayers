@@ -113,14 +113,27 @@ fn main() {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dextryayers&theme=github_dark&utcOffset=7" alt="Productive Time" width="49%"/>
 </a>
 
+<br><br>
+
+<div align="left">
+ 
+## Contribution Architecture
+
+
+<div align="center">
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=dextryayers&theme=dark&stats=true" width="100%" alt="3D Isometric Contributions" />
+</div>
 
 </div>
 
+<br><br>
 
+<div align="left"> 
+  
 ## Connect With Me
 
-<div align="center">
 
+  
 <a href="mailto:ytaniipid@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
@@ -134,6 +147,7 @@ fn main() {
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
+</div>
 
 <br/><br/>
 
