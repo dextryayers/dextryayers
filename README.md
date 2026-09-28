@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Hanif Abdurrohim
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hanif+Abdurrohim&textBg=false&fontSize=65&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Full-Stack+%E2%80%A2+Cyber+Security+%E2%80%A2+Ai+Automation&descSize=22&descAlign=50&descAlignY=60" width="100%">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=%24+Software+Engineer;%24+Cybersecurity+%26+Security+Researcher;%24+Web+Developer;%24+Rust+%26+Systems+Programming;%24+Always+Building%2C+Always+Learning" alt="Typing SVG" />
@@ -95,14 +95,69 @@ fn main() {
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<br/><br/>
+
+<a href="https://github.com/dextryayers">
+  <img src="https://streak-stats.demolab.com?user=dextryayers&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/dextryayers">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dextryayers&theme=github_dark" alt="Profile Details" width="100%"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/dextryayers">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dextryayers&theme=github_dark" alt="Repos per Language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dextryayers&theme=github_dark" alt="Most Commit Language" width="49%"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/dextryayers">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dextryayers&theme=github_dark" alt="Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dextryayers&theme=github_dark&utcOffset=7" alt="Productive Time" width="49%"/>
+</a>
+
+
+</div>
+
+
+## Connect With Me
+
+<div align="center">
+
+<a href="mailto:ytaniipid@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+<a href="https://instagram.com/hanziip.kds">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="https://github.com/dextryayers">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/hanifabdurrohim">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dextryayers/dextryayers/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dextryayers/dextryayers/output/pacman-contribution-graph.svg">
   <img alt="github contribution pacman animation" src="https://raw.githubusercontent.com/dextryayers/dextryayers/output/pacman-contribution-graph.svg">
 </picture>
 
+
 <div align="center">
 
-**Thanks for visiting my profile! 👋**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=146&color=gradient&section=footer&reversal=false&textBg=false&fontSize=65&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=22&descAlign=50&descAlignY=60" width="100%">
 
 </div>
