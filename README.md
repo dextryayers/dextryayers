@@ -1,132 +1,99 @@
 <div align="center">
-  <!-- TYPING SVG TETAP -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+Hey+there+%F0%9F%91%8B;I'm+Hanif+Abdurrohim;Cyber+Security+Researcher;Web+Developer;Automation+Enthusiast" alt="Typing SVG" />
-  <br/>
-  <h3>⚡ Breaking things to understand how they work ⚡</h3>
-  <br/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3huZXRxZ3BibTJhMXEwYnZ5cDEwM3c3ZGdla3AwaGxjNTgyMW5pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.gif" width="80%" alt="Matrix Rain"/>
+
+# Hi there 👋 I'm Hanif Abdurrohim
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=%24+Software+Engineer;%24+Cybersecurity+%26+Security+Researcher;%24+Web+Developer;%24+Rust+%26+Systems+Programming;%24+Always+Building%2C+Always+Learning" alt="Typing SVG" />
+</a>
+
 </div>
 
+
+## Who I Am
+
+```rust
+struct Hanif_Abdurrohim{
+    name: &'static str,
+    status: &'static str,
+    focus: &'static [&'static str],
+    learning: &'static [&'static str],
+    philosophy: &'static str,
+}
+
+fn main() {
+    let hanif = Hanif {
+        name: "Hanif Abdurrohim",
+
+        status:
+            "Someone who genuinely loves technology, enjoys exploring how things work, and loves building with code.",
+
+        focus: &[
+            "Cybersecurity, penetration testing, and security research",
+            "Web development and modern web technologies",
+            "Software engineering, architecture, and scalable systems",
+        ],
+
+        learning: &[
+            "Rust and systems programming",
+            "Secure and scalable software architecture",
+            "Application security and vulnerability research",
+            "Emerging technologies and developer tooling",
+        ],
+
+        philosophy:
+            "Learn continuously, build with purpose, break things to understand them, and never stop creating.",
+    };
+}
+```
+
+<br clear="right"/>
+
+## Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL"/>
+</p>
+
+## Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro"/>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter"/>
+</p>
+
+## What I Do
+
+* 🔐 Explore **cybersecurity, penetration testing, and vulnerability research**
+* 🌐 Build **modern, secure, and responsive web applications**
+* ⚙️ Design and develop **software, tools, and developer utilities**
+* 🦀 Explore **Rust and systems programming**
+* 🧪 Experiment with **new technologies and technical ideas**
+* 🚀 Turn ideas into **real, usable projects**
+
+## Philosophy
+
+> **Learn continuously. Build with purpose.**
+> **Break things to understand them. Never stop creating.**
+
 ---
-
-## ✨ **About Me** - *the human behind the screen*
-
-I’m **Hanif**, a passionate **Cyber Security Researcher** and **Web Developer** from Indonesia.  
-I love the smell of **Linux terminals**, the thrill of **automation**, and the art of building **secure & modern web apps**.
-
-- 🔭 Currently open for **security research**, **automation projects**, and **web dev work**  
-- 🧠 Diving into **AI-assisted pentesting**, **red team tooling**, and **scripting**  
-- ⚙️ I build small tools that solve real problems (sometimes weird ones)  
-- 🐿️ Daily Linux user: Kali, Parrot, Pop!_OS, Arch - I distro-hop for fun  
-- 💬 Ask me about **bypassing 403**, **WAF evasion**, or **why I love Vue.js**  
-- 🎯 Motto: *“If it ain't broken, you haven't tested enough.”*
-
----
-
-## 🛡️ **Cyber Security Tools**
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/wireshark" height="50" alt="wireshark" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6F00" height="50" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/metasploit/2274A5" height="50" alt="Metasploit" />
-  <img src="https://cdn.simpleicons.org/owasp" height="50" alt="OWASP" />
-  <img src="https://cdn.simpleicons.org/torproject" height="50" alt="John The Ripper" />
-  <img src="https://cdn.simpleicons.org/hackthebox" height="50" alt="Hydra" />
-  <img src="https://cdn.simpleicons.org/tryhackme/FF6F00" height="50" alt="Nikto" />
-  <img src="https://cdn.simpleicons.org/hackerone" height="50" alt="Wireshark" />
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" width="450" />
-</p>
-
-
-## 🧰 **Tech Stack** - *languages, frameworks & tools*
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="50" alt="WordPress" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-</p>
-
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif" width="550" />
-</p>
-
-
-
-## 🐧 **OS & Environment**
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Kali Linux" />
-  <img src="https://cdn.simpleicons.org/parrotsecurity/4B275F" height="50" alt="Parrot OS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="50" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="50" alt="Arch Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="Windows" />
-</p>
-
-
-
-## 🌐 **Let's Connect**
-
-<p align="center">
-  <a href="https://instagram.com/hanziip.kds" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" alt="Instagram" />
-  </a>
-  <a href="https://tiktok.com/@aniiippid" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok/000000" height="50" alt="TikTok" />
-  </a>
-  <a href="https://linkedin.com/in/hanif-abdurrohim" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" height="50" alt="LinkedIn" />
-  </a>
-  <a href="https://buymeacoffee.com/aniipid" target="_blank">
-    <img src="https://cdn.simpleicons.org/buymeacoffee/FFDD00" height="50" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dextryayers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dextryayers&theme=radical&hide_border=true&background=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dextryayers&layout=compact&langs_count=8&theme=algolia" width="50%" />
-</p>
-
-
-
-## 📡 **Live Activity Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dextryayers&theme=matrix&hide_border=true&area=true&bg_color=0D1117&color=00FF00&line=9E4C98&point=FFFFFF" width="90%" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dextryayers/dextryayers/output/pacman-contribution-graph-dark.svg">
@@ -135,6 +102,7 @@ I love the smell of **Linux terminals**, the thrill of **automation**, and the a
 </picture>
 
 <div align="center">
-  <h3>🧩 “Keep learning. Keep breaking. Keep building.”</h3>
-  <p>Made with ☕ and terminal vibes</p>
+
+**Thanks for visiting my profile! 👋**
+
 </div>
